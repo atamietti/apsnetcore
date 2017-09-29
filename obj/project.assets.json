@@ -12539,11 +12539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andre.quintao\\Desktop\\udemy\\module2\\hosting\\hosting.csproj",
+      "projectUniqueName": "c:\\Users\\andre.quintao\\Desktop\\udemy\\module2\\hosting\\hosting.csproj",
       "projectName": "hosting",
-      "projectPath": "C:\\Users\\andre.quintao\\Desktop\\udemy\\module2\\hosting\\hosting.csproj",
+      "projectPath": "c:\\Users\\andre.quintao\\Desktop\\udemy\\module2\\hosting\\hosting.csproj",
       "packagesPath": "C:\\Users\\andre.quintao\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andre.quintao\\Desktop\\udemy\\module2\\hosting\\obj\\",
+      "outputPath": "c:\\Users\\andre.quintao\\Desktop\\udemy\\module2\\hosting\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
