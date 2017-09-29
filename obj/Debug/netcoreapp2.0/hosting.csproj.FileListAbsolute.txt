@@ -1,0 +1,10 @@
+C:\Users\andre.quintao\Desktop\udemy\module2\hosting\bin\Debug\netcoreapp2.0\hosting.deps.json
+C:\Users\andre.quintao\Desktop\udemy\module2\hosting\bin\Debug\netcoreapp2.0\hosting.runtimeconfig.json
+C:\Users\andre.quintao\Desktop\udemy\module2\hosting\bin\Debug\netcoreapp2.0\hosting.runtimeconfig.dev.json
+C:\Users\andre.quintao\Desktop\udemy\module2\hosting\bin\Debug\netcoreapp2.0\hosting.dll
+C:\Users\andre.quintao\Desktop\udemy\module2\hosting\bin\Debug\netcoreapp2.0\hosting.pdb
+C:\Users\andre.quintao\Desktop\udemy\module2\hosting\obj\Debug\netcoreapp2.0\hosting.csproj.CoreCompileInputs.cache
+C:\Users\andre.quintao\Desktop\udemy\module2\hosting\obj\Debug\netcoreapp2.0\hosting.AssemblyInfoInputs.cache
+C:\Users\andre.quintao\Desktop\udemy\module2\hosting\obj\Debug\netcoreapp2.0\hosting.AssemblyInfo.cs
+C:\Users\andre.quintao\Desktop\udemy\module2\hosting\obj\Debug\netcoreapp2.0\hosting.dll
+C:\Users\andre.quintao\Desktop\udemy\module2\hosting\obj\Debug\netcoreapp2.0\hosting.pdb
