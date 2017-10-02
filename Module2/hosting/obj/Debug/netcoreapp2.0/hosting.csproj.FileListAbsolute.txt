@@ -1,0 +1,10 @@
+/Users/Andre/Desktop/apsnetcore/bin/Debug/netcoreapp2.0/hosting.deps.json
+/Users/Andre/Desktop/apsnetcore/bin/Debug/netcoreapp2.0/hosting.runtimeconfig.json
+/Users/Andre/Desktop/apsnetcore/bin/Debug/netcoreapp2.0/hosting.runtimeconfig.dev.json
+/Users/Andre/Desktop/apsnetcore/bin/Debug/netcoreapp2.0/hosting.dll
+/Users/Andre/Desktop/apsnetcore/bin/Debug/netcoreapp2.0/hosting.pdb
+/Users/Andre/Desktop/apsnetcore/obj/Debug/netcoreapp2.0/hosting.csproj.CoreCompileInputs.cache
+/Users/Andre/Desktop/apsnetcore/obj/Debug/netcoreapp2.0/hosting.AssemblyInfoInputs.cache
+/Users/Andre/Desktop/apsnetcore/obj/Debug/netcoreapp2.0/hosting.AssemblyInfo.cs
+/Users/Andre/Desktop/apsnetcore/obj/Debug/netcoreapp2.0/hosting.dll
+/Users/Andre/Desktop/apsnetcore/obj/Debug/netcoreapp2.0/hosting.pdb
