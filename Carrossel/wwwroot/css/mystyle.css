@@ -1,0 +1,18 @@
+.left.carousel-control,
+.right.carousel-control{
+    background-image: none;
+    /* margin-bottom: 100px;
+    margin-top: 100px; */
+}
+
+.navbar-brand{
+    background: url('../images/logo.png');
+    width: 215px;
+    height: 55px;
+
+}
+.navbar-inverse
+{
+    background-color: #F8965D;
+    border-color: white;
+}

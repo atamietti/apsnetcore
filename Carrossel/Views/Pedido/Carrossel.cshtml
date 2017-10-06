@@ -1,0 +1,88 @@
+@{
+    ViewData["Title"]= "Carrossel";
+}
+<h3>Catálogo</h3>
+<div id="carousel-id" class="carousel slide" data-ride="carousel">
+    <!-- <ol class="carousel-indicators">
+        <li data-target="#carousel-id" data-slide-to="0" class=""></li>
+        <li data-target="#carousel-id" data-slide-to="1" class=""></li>
+        <li data-target="#carousel-id" data-slide-to="2" class="active"></li>
+    </ol> -->
+    <div class="carousel-inner">
+        @{ 
+            var produtos = new []
+            {
+                
+            }
+
+
+        } 
+        <div class="item">
+            <div class="row">
+                @for (int i=4; i<8 ; i++)
+                {
+                    <div class="col-md-3">
+                        <div class="panel panel-default">
+                            <div class="panel-body">
+                                <img src="/images/produtos/large_@(i+1).jpg"/>
+                            </div>
+                            <div class="panel-footer">
+                                <div>Produto @(i+1)</div>
+                                <div>R$ 59,90</div>
+                                <div class="text-center">
+                                    <a asp-action="Carrinho" asp-controller="Pedido" > Adicionar </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+         </div>
+
+        <div class="item">
+            <div class="row">
+                @for (int i=8; i<9 ; i++)
+                {
+                    <div class="col-md-3">
+                        <div class="panel panel-default">
+                            <div class="panel-body">
+                                <img src="/images/produtos/large_@(i+1).jpg"/>
+                            </div>
+                            <div class="panel-footer">
+                                <div>Produto @(i+1)</div>
+                                <div>R$ 59,90</div>
+                                <div class="text-center">
+                                <a asp-action="Carrinho" asp-controller="Pedido" > Adicionar </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+        <div class="item active">
+            <div class="row">
+                @for (int i=0; i<4 ; i++)
+                {
+                    <div class="col-md-3">
+                        <div class="panel panel-default">
+                            <div class="panel-body">
+                                <img src="/images/produtos/large_@(i+1).jpg"/>
+                            </div>
+                            <div class="panel-footer">
+                                <div>Produto @(i+1)</div>
+                                <div>R$ 59,90</div>
+                                <div class="text-center">
+                                <a asp-action="Carrinho" asp-controller="Pedido" > Adicionar </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+    <a class="left carousel-control" href="#carousel-id" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
+    <a class="right carousel-control" href="#carousel-id" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
+</div>
