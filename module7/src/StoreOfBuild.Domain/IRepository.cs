@@ -1,9 +1,9 @@
 namespace StoreOfBuild.Domain
 {
-    public interface IRepository<TEntity>
+    public interface IRepository<T>
     {
-        TEntity GetById(int id);
-        void Save(TEntity entity);
+        T GetById(int id);
+        void Save(T entity);
 
     } 
 }

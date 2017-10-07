@@ -1,8 +1,7 @@
 namespace StoreOfBuild.Domain.Products
 {
-    public class Product
+    public class Product : Entity
     {
-        public int Id { get; private set; }
 
         public string  Name { get; private set; }
 

@@ -2,11 +2,11 @@ using StoreOfBuild.Domain.Dto;
 
 namespace StoreOfBuild.Domain.Products
 {
-    public class CategoyStorer
+    public class CategoryStorer
     {
         public IRepository<Category> _categoryRepository {get; private set;} 
 
-        public CategoyStorer(IRepository<Category> categoryRepository)
+        public CategoryStorer(IRepository<Category> categoryRepository)
         {
             _categoryRepository = categoryRepository;
         }
